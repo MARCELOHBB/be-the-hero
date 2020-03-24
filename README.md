@@ -11,9 +11,13 @@
 Foram utilizadas as seguintes tecnologias:
 
 Node.js
+
 React
+
 React Native
+
 Expo
+
 Express
 
 
