@@ -1,9 +1,11 @@
-
-                                            ## :rocket: Semana OmniStack 11.0
+# :rocket: Semana OmniStack 11.0
+                                            
+                                                
+                                                     #Be The Hero
                                             Tecnologias   |    Projeto   
 
 
-                                                  #Be The Hero
+                                                  
 
 ## :pushpin: Tecnologias
 
@@ -26,13 +28,21 @@ Foram utilizadas as seguintes tecnologias:
 
 
 
-## :pushpin: Projeto
 
 
-# :point_right: O Be The Hero é um projeto da Semana OmniStack pela Rocketseat.
+
+## :point_right: Projeto
+
+
+
+ O Be The Hero é um projeto da Semana OmniStack pela Rocketseat.
+
+
 
 
 ## :pushpin: Dicas 
+
+
 
 
 -Rode npm install para instalar as dependências do projeto.
