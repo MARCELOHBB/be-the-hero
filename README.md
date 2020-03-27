@@ -1,33 +1,38 @@
 
-                                              🚀 Semana OmniStack 11.0
+                                            ## :rocket: Semana OmniStack 11.0
                                             Tecnologias   |    Projeto   
 
 
                                                   #Be The Hero
 
-📌 Tecnologias
+## :pushpin: Tecnologias
 
 
 Foram utilizadas as seguintes tecnologias:
 
 💻 Node.js
 
+
 💻 React
+
 
 💻 React Native
 
+
 💻 Expo
+
 
 💻 Express
 
 
-📌 Projeto
+
+## :pushpin: Projeto
 
 
-👉 O Be The Hero é um projeto da Semana OmniStack pela Rocketseat.
+# :point_right: O Be The Hero é um projeto da Semana OmniStack pela Rocketseat.
 
 
-📌 Dicas 
+## :pushpin: Dicas 
 
 
 -Rode npm install para instalar as dependências do projeto.
